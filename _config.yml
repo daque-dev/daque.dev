@@ -1,0 +1,20 @@
+title:             ViaRE
+email:             
+description:       ViaRE is a Real Emulator
+author:            ViaRE
+baseurl:           "/"
+url:               "http://daque.gitlab.io/"
+
+# Social Profiles
+twitter_username:  
+github_username:   
+facebook_username: 
+
+# Build settings
+markdown:          kramdown
+permalink:         /:title
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
