@@ -1,0 +1,10 @@
+{% assign fav_posts = site.posts | where:"fav", true | where: "blog", page.blog %}
+{% for post in fav_posts %}
+  <section id="favourite-posts" class="taxonomy__section">
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+      {% for post in fav_posts %}
+        {% include archive-single.html type=page.entries_layout %}
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}
