@@ -1,22 +1,21 @@
 ---
-title: "About us"
-excerpt: "Daque. This is what we are."
+title: "Home"
+excerpt: "Daque development team"
 permalink: /
 
 layout: single
-hideTitle: False
+hideTitle: True
 align: center
 ---
-We are Daque. A team of two undergraduate students formed in mid-2018.
 
-As we believe in open source, all our code is licensed under the [MIT License](https://choosealicense.com/licenses/mit/){:target="_blank"}, and you can find it in our profiles at [GitHub](https://github.com/daque-dev){:target="_blank"} and [GitLab](https://gitlab.com/daque){:target="_blank"}.
-
-Our main project is [ViaRE](./viare), a procedurally generated game that tries to emulate the human existence, evolution, and interaction. It is inspired by complexity and chaos; emergence and self—organization; human history and evolution; and, briefly said: nature.
-
-Along the road, we started developing [libdaque](https://code.dlang.org/packages/libdaque){:target="_blank"}, a Dlang package of procedural generation tools to help game developers in D.
+# Hi, we are Daque. We love procedural generation.
 
 ---
 
-Sometimes, we are in the mood to write about our processes, ideas, problems, and situations. You can read those things and some more at [our blog](./blog).
+We are two students who try to keep developing interesting stuff in their free time. You may want to [read our blog](/blog), where we share our thoughts (mostly things related to math or programming).
 
-To get in touch, send us an email to [contact@daque.me](mailto:contact@daque.me).
+Our main project is [ViaRE](/viare). A procedurally generated game that simulates human life in earth-like planets.
+
+You can get to know who we are, what other things we do, what interests us, and some other stuff by [reading about us](/about). That would make us very happy.
+
+You can reach us at [contact@daque.me](mailto:contact@daque.me).
