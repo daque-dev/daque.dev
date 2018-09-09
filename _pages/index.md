@@ -8,6 +8,7 @@ hideTitle: True
 align: center
 ---
 
+<img style="float: right;" src="images/daque.svg" width="280">
 # Hi, we are Daque. We love procedural generation.
 
 ---
