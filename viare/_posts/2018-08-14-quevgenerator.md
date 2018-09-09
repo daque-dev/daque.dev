@@ -2,6 +2,7 @@
 title: "Quev Height Function"
 subtitle: "Describes how the quev height function works"
 blog: viare
+permalink: viare/quevgenerator
 
 author: Miguel Angel
 author_url: https://gitlab.com/quevangel
