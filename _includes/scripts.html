@@ -23,5 +23,17 @@
   {%- endcase -%}
 {% endif %}
 
+{% if page.anchored %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js"></script>
+    <script>
+      anchors.options={
+        placement: 'left'
+      }
+      document.addEventListener("DOMContentLoaded", function(event) {
+      anchors.add();
+    });
+    </script>
+{% endif %}
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

@@ -278,6 +278,7 @@ defaults:
       share: false
       related: false
       blog: blog
+      anchored: true
 
   # _projects
   - scope:

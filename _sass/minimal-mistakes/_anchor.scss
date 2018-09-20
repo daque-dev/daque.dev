@@ -1,0 +1,10 @@
+.anchorjs-link {
+    transition: all .25s linear;
+    color: $muted-text-color;
+  }
+
+*:hover > .anchorjs-link {
+    margin-left: -1.125em !important;
+    color: $muted-text-color;
+    text-decoration: none !important;
+  }
