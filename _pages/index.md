@@ -19,4 +19,4 @@ Our main project is [ViaRE](/viare). A procedurally generated game that simulate
 
 You can get to know who we are, what other things we do, what interests us, and some other stuff by [reading about us](/about). That would make us very happy.
 
-You can reach us at [contact@daque.me](mailto:contact@daque.me).
+You can reach us at [contact@daque.dev](mailto:contact@daque.dev).

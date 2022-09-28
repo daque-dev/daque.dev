@@ -37,4 +37,4 @@ Ever since, we are *officially* Daque. And Daque is not just a development team,
 
 As we believe in open source, all our code is licensed under the [MIT License](https://choosealicense.com/licenses/mit/){:target="_blank"}, and you can find it in our profiles at [GitHub](https://github.com/daque-dev){:target="_blank"} and [GitLab](https://gitlab.com/daque){:target="_blank"}.
 
-To get in touch, send us an email at [contact@daque.me](mailto:contact@daque.me).
+To get in touch, send us an email at [contact@daque.dev](mailto:contact@daque.dev).
